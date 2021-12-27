@@ -1,0 +1,9 @@
+name: TheBridge
+version: '${project.version}'
+main: me.acablade.thebridge.TheBridgePlugin
+authors: [ Acablade ]
+description: TheBridge game
+website: github.com/Acablade
+commands:
+  freeze:
+  skip:
